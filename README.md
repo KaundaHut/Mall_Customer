@@ -6,10 +6,9 @@ The analysis was conducted using Python programming language and its popular dat
 
 ### Project Files
 
+Mall_customer_eda.ipynb: Jupyter Notebook containing the detailed analysis process.
+
 Mall_Customers.csv: The raw data file containing information about customers of the shopping mall.
-
-mall_customer_eda.ipynb: Jupyter Notebook containing the detailed analysis process.
-
 
 ### Libraries Used
 
